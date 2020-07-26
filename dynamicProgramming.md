@@ -1,6 +1,6 @@
 | Index | Problem | Difficulty | Solved | Comments |
 | --- | --- | --- | --- | --- |
-| 1 | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 |  |  |
+| 1 | [Hit the Lottery](https://codeforces.com/contest/996/problem/A) | 800 | Yes |  |
 | 2 | [Even Subset Sum Problem](https://codeforces.com/contest/1323/problem/A) | 800 |  |  |
 | 3 | [Card Constructions](https://codeforces.com/contest/1345/problem/B) | 1100 |  |  |
 | 4 | [Petr and a Combination Lock](https://codeforces.com/contest/1097/problem/B) | 1200 |  |  |
