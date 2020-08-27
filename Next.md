@@ -18,4 +18,14 @@
 | 16 | [ Special Permutation](https://codeforces.com/contest/1352/problem/G) | 1600 |  |
 | 17 | [a/b Matrix](https://codeforces.com/contest/1360/problem/G) | 1900 |  |
 | 18 | [Guess Maxm](https://codeforces.com/contest/1363/problem/D) | 2100 |  |
-
+| 19 | [Edu Round 89 virtual](https://codeforces.com/contest/1366) | |  |
+| 20 | [Task on Board](https://codeforces.com/contest/1367/problem/D) | 1800 |  |
+| 21 | [Ehab and Prefix MEXs](https://codeforces.com/contest/1364/problem/C) | 1600 |  |
+| 22 | [Div 2 649 virtual](https://codeforces.com/contest/1364) | 2100 |  |
+| 23 | [E1. Reading Books (easy version)](https://codeforces.com/contest/1374/problem/E1) | 1600 |  |
+| 24 | [Fill The Bag](https://codeforces.com/contest/1303/problem/D) | 1900 |  |
+| 25 | [Prefix-Suffix Palindrome (Hard version)](https://codeforces.com/contest/1326/problem/D2) | 1800 |  |
+| 26 | [Walk on Matrix](https://codeforces.com/contest/1332/problem/D)) | 1700 |  |
+| 27 | [K-Complete Word](https://codeforces.com/contest/1332/problem/C) | 1500 |  |
+| 28 | [D.Good String](https://codeforces.com/contest/1385/problem/D) | 1500 |  |
+| 27 | [Global round 9 virtual](https://codeforces.com/contest/1375) | |  |
